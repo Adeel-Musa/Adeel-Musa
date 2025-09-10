@@ -1,16 +1,39 @@
-## Hi there 👋
+ 👋 Hi, I'm Adeel Musa  
 
-<!--
-**Adeel-Musa/Adeel-Musa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Data Science & AI Learner
+🎓 BS Software Engineering Student @ Minhaj University, Lahore  
+🚀 Passionate about building modern websites and exploring the world of Data & AI  
 
-Here are some ideas to get you started:
+ 🛠️ Tech Stack  
+ 
+ 🌐 Frontend  
+- HTML, CSS, JavaScript  
+- React.js, Bootstrap, Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⚙️ Backend  
+- PHP, Laravel  
+
+ 📊 Data Science & AI  
+- Python for Data Analysis  
+- Pandas, NumPy, Matplotlib  
+- Machine Learning (beginner level, learning stage)  
+
+🗄️ Databases  
+- MySQL
+
+ 📂 Featured Projects  
+- 🌐 [Portfolio Website](https://adeel-musa.github.io/)  
+
+
+🌍 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/Muhammad Adeel Musa/)  
+- [Instagram](https://instagram.com/adeelbhatti255)  
+- [TikTok](https://www.tiktok.com/@adeelmusa05)  
+- [Facebook](https://facebook.com/adeel.musa)  
+
+📧 Email: adeelmusa030@gmail.com  
+
+--------------------------------------------------------------------------------
+
+⭐ Always learning, always building — turning ideas into reality with Web Development & AI.
+
