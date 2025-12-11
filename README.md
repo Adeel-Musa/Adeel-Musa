@@ -54,15 +54,6 @@ I'm a passionate software engineering student specializing in full-stack web dev
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeel-musa&show_icons=true&theme=radical&count_private=true" alt="Adeel's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-musa&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Muhammad-Adeel-Musa/)
